@@ -23,7 +23,7 @@ print(3 * 3)   # Multiplication
 print(3 // 2)  # Floor divison
 print(3 // 2)  # Floor divison
 # Checking data types
-print(Welcome to Python)
+print("Welcome to Python")
 print(type(10))                  # Int
 print(type(3.14))                # Float
 print(type(1 + 3j))              # Complex
